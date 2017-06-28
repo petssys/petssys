@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	
+
+}
+#nav_session
+{
+	background-color:#FFD985;
+	border-color:#000;
+	border-width:5px;
+	border-radius:solid;
+}
+#logo
+{
+	width:auto;
+	height:780px;
+	margin:15 15 5 5;
+}
+#fuente_inicio
+{
+	text-align:center;
+}
+#panel_sesion
+{
+	
+	border-color:#000000;
+	margin-top:100px;
+	border-style:solid;
+	border-width:3px;
+	height:400px;
+	background-color:rgba(102,51,0,0.2);
+	color:rgba(255,255,255,1);
+}
+#pane_header_session
+{
+	background-color:rgba(0,0,0,0.5);
+	text-align:center;
+	color:rgba(255,255,255,1);
+}
+
+#icon_session
+{
+	background-color:#FFD985;
+}
+#background_sesion
+{
+	background-color:#603813;
+}
+#panel_footer
+{
+	background-color:#333;
+	border:#000;
+	color:#000;
+}
+#container_color
+{
+	background-color:#A75504;
+}
+#botton_sussed
+{
+	width:200PX;
+	margin:auto;
+	
+}
+a:link   
+{   
+ text-decoration:none;   
+}  
+
+#panel_card
+{
+	margin:20 0 0 0;
+}
+#nav_navegation
+{
+	background-color:#FFD985;
+	width:300px;
+}
+#title_Admin
+{
+	background-color:#960;
+
+}
+#user_foto
+{
+	width:150px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+#text-session
+{
+	font-size:18px;
+}
+#asterisco
+{
+	color:#C00;
+}
+
+.huge {
+  font-size: 40px;
+}
+#graph
+{
+	margin-top:30px;
+}
+#link-user
+{
+	margin-left:20px;
+}
+#asterisco2
+{
+	visibility: hidden;	
+}
